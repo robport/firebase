@@ -21,6 +21,7 @@ export class Mongo {
       })
       const dbUrl = dbUrlVersion.payload?.data?.toString() || '';
       // const dbUrl = 'mongodb://localhost:27017/'
+      // kjrvndkn
       this.client = new MongoClient(dbUrl, {useUnifiedTopology: true});
       await this.client.connect()
       console.log('Connected', this.client.isConnected())
