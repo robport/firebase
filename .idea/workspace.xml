@@ -7,10 +7,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="uaawxqva" />
   </component>
   <component name="ProjectId" id="1i00LDIvwOYoxHFjfluhfQMSQhw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,6 +28,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="F:\projects\firebase-emulator\functions\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -39,7 +44,7 @@
       <workItem from="1601051117928" duration="1199000" />
       <workItem from="1601203089557" duration="820000" />
       <workItem from="1601643576810" duration="455000" />
-      <workItem from="1601738119652" duration="13678000" />
+      <workItem from="1601738119652" duration="13917000" />
     </task>
     <servers />
   </component>
@@ -51,5 +56,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="959" y="463" key="FileChooserDialogImpl/0.0.2560.1400/-2560.0.2560.1440@0.0.2560.1400" timestamp="1601644029294" />
+    <state x="-2004" y="299" key="SettingsEditor" timestamp="1601825216391">
+      <screen x="-2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="-2004" y="299" key="SettingsEditor/0.0.2560.1440/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1601825216391" />
   </component>
 </project>
